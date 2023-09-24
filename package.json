@@ -1,5 +1,5 @@
 {
-  "name": "my_api",
+  "name": "my_yelp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
